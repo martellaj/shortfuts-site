@@ -13,7 +13,7 @@ function App() {
     return (
         <div className="container">
             <Menu onMenuItemClicked={onMenuItemClicked} />
-            <Content selectedMenuItem={selectedMenuItem} />>
+            <Content selectedMenuItem={selectedMenuItem} />
         </div>
     );
 }
