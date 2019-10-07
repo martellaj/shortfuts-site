@@ -1,0 +1,13 @@
+.MenuItem--container {
+    align-items: center;
+    background-color: green;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    margin: 6px;
+    padding: 12px;
+}
+
+.MenuItem--text {
+    font-size: 20px;
+}
