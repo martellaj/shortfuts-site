@@ -1,5 +1,18 @@
 .Content--container {
     background-color: lightblue;
-    width: 100%;
     padding: 24px 36px;
+    width: 100%;
+}
+
+.Content--content {
+    height: 100%;
+    margin-left: -36px;
+    margin-right: -36px;
+    overflow: auto;
+    padding-left: 36px;
+    padding-right: 36px;
+}
+
+.Content--title {
+    margin-top: 0;
 }

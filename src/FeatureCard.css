@@ -1,0 +1,6 @@
+.FeatureCard--container {
+    background-color: lightcoral;
+    height: 200px;
+    margin-bottom: 24px;
+    padding: 12px;
+}
