@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import "./App.css";
 import Menu from "./Menu";
+import Content from "./Content";
 
 function App() {
     const [selectedMenuItem, setSelectedMenuItem] = useState(0);
@@ -12,9 +13,7 @@ function App() {
     return (
         <div className="container">
             <Menu onMenuItemClicked={onMenuItemClicked} />
-            <div className="content column">
-                MenuItem {selectedMenuItem} selected
-            </div>
+            <Content selectedMenuItem={selectedMenuItem} />>
         </div>
     );
 }
