@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import "./App.css";
 import Menu from "./Menu";
 import Content from "./Content";
+import Header from "./Header";
 
 function App() {
     const [selectedMenuItem, setSelectedMenuItem] = useState(0);
@@ -12,8 +13,14 @@ function App() {
 
     return (
         <div className="container">
-            <Menu onMenuItemClicked={onMenuItemClicked} />
-            <Content selectedMenuItem={selectedMenuItem} />
+            <Header />
+            <div className="body">
+                <Menu
+                    onMenuItemClicked={onMenuItemClicked}
+                    selectedMenuItem={selectedMenuItem}
+                />
+                <Content selectedMenuItem={selectedMenuItem} />
+            </div>
         </div>
     );
 }

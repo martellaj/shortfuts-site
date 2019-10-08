@@ -3,10 +3,18 @@
     height: 100vh;
     margin: auto;
     width: 60vw;
+    flex-direction: column;
 }
 
-body,
-html {
-    overflow: hidden;
-    height: 100%;
+.body {
+    display: flex;
+    flex-grow: 1;
+}
+
+body {
+    background-color: #fffff4;
+}
+
+a {
+    color: #a12d38;
 }

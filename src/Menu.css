@@ -1,4 +1,5 @@
 .Menu--container {
-    background-color: red;
+    height: 100%;
+    background-color: #22272b;
     width: 30vw;
 }
