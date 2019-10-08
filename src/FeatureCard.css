@@ -1,6 +1,16 @@
 .FeatureCard--container {
-    background-color: #fc003f;
-    height: 200px;
+    background-color: #ebebeb;
     margin-bottom: 24px;
-    padding: 12px;
+}
+
+.FeatureCard--header {
+    font-size: 24px;
+    background-color: #fcfcfc;
+    padding: 6px;
+    color: #e94151;
+    font-weight: bold;
+}
+
+.FeatureCard--description {
+    padding: 6px;
 }

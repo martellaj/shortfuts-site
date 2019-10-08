@@ -13,7 +13,7 @@ function Menu(props) {
                 onClick={onMenuItemClicked(0)}
             />
             <MenuItem
-                text="PREMIUM FEATURES"
+                text="PREMIUM BENEFITS"
                 isSelected={selectedMenuItem === 1}
                 onClick={onMenuItemClicked(1)}
             />
@@ -21,6 +21,11 @@ function Menu(props) {
                 text="FAQ"
                 isSelected={selectedMenuItem === 2}
                 onClick={onMenuItemClicked(2)}
+            />
+            <MenuItem
+                text="CONTACT"
+                isSelected={selectedMenuItem === 3}
+                onClick={onMenuItemClicked(3)}
             />
         </div>
     );
