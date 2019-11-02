@@ -86,7 +86,6 @@ function Content(props) {
                     />,
                     <FeatureCard
                         title="PROFIT CALCULATOR"
-                        demo="https://twitter.com/shortfuts/status/1185441275748634624?s=20"
                         description={
                             <p>
                                 Using the pricing data provided by FUT Alert, we
@@ -201,17 +200,55 @@ function Content(props) {
                                 </p>
                                 <p>
                                     Still no luck? Feel free to send me an email
-                                    (shortfuts@gmail.com) or DM me on{" "}
-                                    <a
-                                        href="https://www.twitter.com/shortfuts"
-                                        target="_blank"
-                                        rel="noopener noreferrer"
-                                    >
-                                        Twitter
-                                    </a>
-                                    .
+                                    (shortfuts@gmail.com).
                                 </p>
                             </>
+                        }
+                    />,
+                    <FeatureCard
+                        title={`WHAT DO I DO IF THE "BUY PREMIUM" BUTTON DOESN'T WORK?`}
+                        description={
+                            <p>
+                                If the "buy premium" button doesn't work, you
+                                can still buy premium via PayPal. Just use{" "}
+                                <a
+                                    href="https://www.paypal.me./martellaj/15"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                >
+                                    this link
+                                </a>{" "}
+                                to send me $15 USD and the email address you use
+                                to sign into Google Chrome.{" "}
+                                <strong>
+                                    PayPal payments are processed on Sunday of
+                                    each week. You must pay by Saturday to
+                                    ensure you will get processed for that week.
+                                </strong>
+                            </p>
+                        }
+                    />,
+                    <FeatureCard
+                        title={`WHAT DO I DO IF I DON'T HAVE A CREDIT CARD THAT WORKS WITH GOOGLE PAY?`}
+                        description={
+                            <p>
+                                If the "buy premium" button doesn't work, you
+                                can still buy premium via PayPal. Just use{" "}
+                                <a
+                                    href="https://www.paypal.me./martellaj/15"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                >
+                                    this link
+                                </a>{" "}
+                                to send me $15 USD and the email address you use
+                                to sign into Google Chrome.{" "}
+                                <strong>
+                                    PayPal payments are processed on Sunday of
+                                    each week. You must pay by Saturday to
+                                    ensure you will get processed for that week.
+                                </strong>
+                            </p>
                         }
                     />,
                     <FeatureCard
