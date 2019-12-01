@@ -146,6 +146,37 @@ function Content(props) {
                         }
                     />,
                     <FeatureCard
+                        title="SELECT MOST RECENTLY LISTED CARD"
+                        demo="https://streamable.com/vo4qg"
+                        description={
+                            <>
+                                <p>
+                                    With this feature, shortfuts will
+                                    automatically select the most recently
+                                    listed card that matches your search filter.
+                                    This gives you a bigger chance at sniping a
+                                    card.
+                                </p>
+                            </>
+                        }
+                    />,
+                    <FeatureCard
+                        title="AUTO SELECT NEXT CARD AFTER BIN"
+                        demo="https://streamable.com/z9bop"
+                        description={
+                            <>
+                                <p>
+                                    With this feature, shortfuts will
+                                    automatically select the next card in the
+                                    search results after you "buy now". This
+                                    will give you a better chance at sniping
+                                    multiple cards that match your filter (if
+                                    there are multiple results).
+                                </p>
+                            </>
+                        }
+                    />,
+                    <FeatureCard
                         title="DEVELOPER SUPPORT"
                         description={
                             <>
