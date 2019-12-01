@@ -65,6 +65,19 @@ function Content(props) {
             case 1:
                 return [
                     <FeatureCard
+                        title="HANDS-FREE BIN"
+                        demo="https://streamable.com/fluq3"
+                        description={
+                            <>
+                                <p>
+                                    With this feature, shortfuts will attempt to
+                                    buy the first card in the search results
+                                    without you needing to press anything!
+                                </p>
+                            </>
+                        }
+                    />,
+                    <FeatureCard
                         title="FUT ALERT INTEGRATION"
                         demo="http://bit.ly/fut-alert-demo"
                         description={
@@ -250,7 +263,8 @@ function Content(props) {
                                     this link
                                 </a>{" "}
                                 to send me $15 USD and the email address you use
-                                to sign into Google Chrome.{" "}
+                                to sign into Google Chrome to get access for all
+                                of FIFA 20.{" "}
                                 <strong>
                                     PayPal payments are processed on Sunday of
                                     each week. You must pay by Saturday to
@@ -273,7 +287,8 @@ function Content(props) {
                                     this link
                                 </a>{" "}
                                 to send me $15 USD and the email address you use
-                                to sign into Google Chrome.{" "}
+                                to sign into Google Chrome to get access for all
+                                of FIFA 20.{" "}
                                 <strong>
                                     PayPal payments are processed on Sunday of
                                     each week. You must pay by Saturday to
