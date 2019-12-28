@@ -256,13 +256,13 @@ function Content(props) {
                                 If the "buy premium" button doesn't work, you
                                 can still buy premium via PayPal. Just use{" "}
                                 <a
-                                    href="https://www.paypal.me./martellaj/15"
+                                    href="https://www.paypal.me./martellaj/10"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                 >
                                     this link
                                 </a>{" "}
-                                to send me $15 USD and the email address you use
+                                to send me $10 USD and the email address you use
                                 to sign into Google Chrome to get access for all
                                 of FIFA 20.{" "}
                                 <strong>
@@ -280,13 +280,13 @@ function Content(props) {
                                 If the "buy premium" button doesn't work, you
                                 can still buy premium via PayPal. Just use{" "}
                                 <a
-                                    href="https://www.paypal.me./martellaj/15"
+                                    href="https://www.paypal.me./martellaj/10"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                 >
                                     this link
                                 </a>{" "}
-                                to send me $15 USD and the email address you use
+                                to send me $10 USD and the email address you use
                                 to sign into Google Chrome to get access for all
                                 of FIFA 20.{" "}
                                 <strong>
