@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26339181931ed5597f13ce45816215e3",
+    "revision": "baf99c7d1fb9ddb6effbd01038c32ce4",
     "url": "/shortfuts-site/index.html"
   },
   {
-    "revision": "d54254c81688c9ea645c",
+    "revision": "d41131f43add4181d870",
     "url": "/shortfuts-site/static/css/main.2273fe55.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shortfuts-site/static/js/2.006d39b8.chunk.js"
   },
   {
-    "revision": "d54254c81688c9ea645c",
-    "url": "/shortfuts-site/static/js/main.59c541f7.chunk.js"
+    "revision": "d41131f43add4181d870",
+    "url": "/shortfuts-site/static/js/main.f1a25925.chunk.js"
   },
   {
     "revision": "c315b5daf08c8dc54698",
