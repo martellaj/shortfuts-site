@@ -19,6 +19,11 @@ function App() {
         if (faqParam) {
             setSelectedMenuItem(2);
         }
+
+        const privacyPolicyParam = urlParams.get("privacypolicy");
+        if (privacyPolicyParam) {
+            setSelectedMenuItem(4);
+        }
     }, []);
 
     const onMenuItemClicked = index => {

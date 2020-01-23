@@ -27,6 +27,11 @@ function Menu(props) {
                 isSelected={selectedMenuItem === 3}
                 onClick={onMenuItemClicked(3)}
             />
+            <MenuItem
+                text="PRIVACY POLICY"
+                isSelected={selectedMenuItem === 4}
+                onClick={onMenuItemClicked(4)}
+            />
         </div>
     );
 }
