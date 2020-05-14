@@ -241,7 +241,7 @@ function Content(props) {
                   this link
                 </a>{" "}
                 to send me $10 USD and the email address you use to sign into
-                Google Chrome to get access for all of FIFA 20.{" "}
+                Google Chrome to get access for all of FIFA 20. Please note that this may take up to 48 hours to process. Your patience is appreciated.{" "}
               </p>
             }
           />,
@@ -259,7 +259,7 @@ function Content(props) {
                   this link
                 </a>{" "}
                 to send me $10 USD and the email address you use to sign into
-                Google Chrome to get access for all of FIFA 20.{" "}
+                Google Chrome to get access for all of FIFA 20.  Please note that this may take up to 48 hours to process. Your patience is appreciated.{" "}
               </p>
             }
           />,
